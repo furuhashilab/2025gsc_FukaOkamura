@@ -1,6 +1,9 @@
 # 2025gsc_FukaOkamura
 # 2025ゼミ論_地理空間データ形式に着目したCKANベース・オープンデータポータルの国際比較
 
+発表資料
+https://1drv.ms/p/c/0d91c773653e6296/IQABvM0Nq0stTpFzjDKhyDeXAWwHYKNQ9zAL67huXPeMV4g?e=VwEksZ&nav=eyJzSWQiOjI1NywiY0lkIjo5NzI0Nzc3MDF9
+
 ## 概要
 
 本研究は、オープンソースのデータポータル基盤である CKAN において提供されている地理空間データ形式に着目し、日本の都道府県および海外の国単位で、その提供実態を比較・分析するものである。
