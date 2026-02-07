@@ -1,11 +1,11 @@
 # 2025gsc_FukaOkamura
 # 2025ゼミ論_地理空間データ形式に着目したCKANベース・オープンデータポータルの国際比較
 
-発表資料
+- 発表資料
 https://1drv.ms/p/c/0d91c773653e6296/IQABvM0Nq0stTpFzjDKhyDeXAWwHYKNQ9zAL67huXPeMV4g?e=VwEksZ&nav=eyJzSWQiOjI1NywiY0lkIjo5NzI0Nzc3MDF9
-国・都道府県別ファイル数集計結果（.xlsx）
+- 国・都道府県別ファイル数集計結果（.xlsx）
 https://1drv.ms/x/c/0d91c773653e6296/IQC1ujXJPhrYQ5F6RNDche78AdNLbVqzs86bbQ97dzmhoHA?e=zEnPbX
-参考資料
+- 参考資料
 https://docs.google.com/spreadsheets/d/1_CLvlB3Wk5TV1isvG81bEm0rZq1847cQFwu2l1GgCfw/edit?usp=sharing
 
 ## 概要
@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1_CLvlB3Wk5TV1isvG81bEm0rZq1847cQFwu2l1Gg
 
 一方、海外事例、特にオーストラリア、アメリカ、カナダでは以下の特徴が確認された。
 
--ZIPファイルの中にSHPファイルがあると明記されている（ZIPの中身が分かる）
+- ZIPファイルの中にSHPファイルがあると明記されている（ZIPの中身が分かる）
 - GeoJSON、SHP、GeoPackage、ArcGIS REST API など、複数の地理空間データ形式が豊富に提供されている
 - 地理空間データが一定の割合を占めている
 
