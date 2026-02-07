@@ -1,6 +1,7 @@
 # 2025gsc_FukaOkamura
 # 2025ゼミ論_地理空間データ形式に着目したCKANベース・オープンデータポータルの国際比較
 
+©︎Furuhashi Laboratory/Fuka Okamura, CC BY 4.0
 - 発表資料
 https://1drv.ms/p/c/0d91c773653e6296/IQABvM0Nq0stTpFzjDKhyDeXAWwHYKNQ9zAL67huXPeMV4g?e=VwEksZ&nav=eyJzSWQiOjI1NywiY0lkIjo5NzI0Nzc3MDF9
 - 国・都道府県別ファイル数集計結果（.xlsx）
